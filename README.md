@@ -1,4 +1,6 @@
-# Discord Bot Leaderboard
+# Discord VC Leaderboard
+
+[![Discord Bot](https://img.shields.io/badge/Discord-Bot-blue?style=flat-square)](https://discord.com/)
 
 This is a Discord bot that tracks users' activity in voice channels, including total time spent, muted time, and deafened time. The bot posts and updates a leaderboard on a Discord channel using webhooks.
 
